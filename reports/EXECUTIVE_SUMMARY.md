@@ -3,7 +3,7 @@
 
 **Student:** Aanchal Srivastava  
 **Roll number:** 2025031101  
-**Course / Institution:** B.Tech Electrical Engineering — Second Year | Institution: [Your institution]  
+**Course / Institution:** B.Tech Electrical Engineering — Second Year | Institution: Madan Mohan Malaviya University of Technology  
 **Submission date:** 17 November 2026
 
 ## 1. Executive overview
