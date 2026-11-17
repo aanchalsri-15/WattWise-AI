@@ -1,5 +1,7 @@
 # Project methodology and viva notes
 
+**Student:** Aanchal Srivastava  |  **Roll number:** 2025031101  |  **Institution:** Madan Mohan Malaviya University of Technology
+
 ## Objective
 Predict next-day daily mean household active power in kW.
 
